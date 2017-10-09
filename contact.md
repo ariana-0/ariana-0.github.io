@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Contact Me (sample)
+title: Contact Me 
 ---
-# Contact me
-Yup. 
+Yup.
+

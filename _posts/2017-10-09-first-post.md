@@ -2,7 +2,7 @@
 layout: post
 title: "First Post" 
 ---
-# Crucial 
+### Crucial 
 Always use the double qoutations when it's more than a one word title. 
 
 #### Anyways 
